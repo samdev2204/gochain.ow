@@ -1,0 +1,1487 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>GoChain - Smarter, Better, Faster, Stronger Blockchain</title>
+    <meta name="description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency.">
+    <meta name="author" content="GoChain">
+
+    <meta property="og:title" content="GoChain - Smarter, Better, Faster, Stronger Blockchain" />
+    <meta property="og:description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency." />
+    <meta property="og:image" content="https:https://gochain.io/assets/images/gochain-crypto-logo.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://gochain.io/about" />
+    <meta property="og:site_name" content="GoChain" />
+    <meta property="fb:app_id" content="208112539741504" />
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="0AJpqpeqnxH+nQwas1PGvXzEGFRfbhQUZphbhK7/HpIlioQrRd9EEL8Xt+XlruOkjwKF3rCRyaywH198atQDKQ==" />
+    
+
+    <link rel="stylesheet" media="all" href="/assets/application-be71e4af7ff0edb7c56561587cc1014ac68f192ff845cda3d613d46a223850f4.css" />
+    <script src="/assets/application-a26b426d94945d28bc558156b0ba398e246b1a45b98702aa11acb45da5a692a3.js"></script>
+
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-j8y0ITrvFafF4EkV1mPW0BKm6dp3c+J9Fky22Man50Ofxo2wNe5pT1oZejDH9/Dt" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- CSS Global Compulsory -->
+<link rel="stylesheet" href="/assets/vendor/bootstrap/bootstrap.min.css">
+<!-- CSS Global Icons -->
+<link rel="stylesheet" href="/assets/vendor/icon-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line/css/simple-line-icons.css">
+<link rel="stylesheet" href="/assets/vendor/icon-etlinefont/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line-pro/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-hs/style.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsparallaxer.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
+<link rel="stylesheet" href="/assets/vendor/animate.css">
+<link rel="stylesheet" href="/assets/vendor/fancybox/jquery.fancybox.min.css">
+<link rel="stylesheet" href="/assets/vendor/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="/assets/vendor/typedjs/typed.css">
+<link rel="stylesheet" href="/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+<link rel="stylesheet" href="/assets/vendor/hamburgers/hamburgers.min.css">
+
+<!-- CSS Unify -->
+<link rel="stylesheet" href="/assets/css/unify-core.css">
+<link rel="stylesheet" href="/assets/css/unify-components.css">
+<link rel="stylesheet" href="/assets/css/unify-globals.css">
+
+<!-- CSS Customization -->
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.min.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+      </script>
+
+  </head>
+
+  <body>
+
+    <main>
+
+      <!-- Header -->
+
+<header id="js-header" class="u-header u-header--sticky-top u-header--toggle-section u-header--change-appearance" data-header-fix-moment="300">
+  <div style="" class="u-header__section u-header__section--light g-bg-white g-transition-0_3 g-py-10" data-header-fix-moment-exclude="g-py-10" data-header-fix-moment-classes="u-shadow-v18  g-py-0">
+    <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
+
+      <div class="container">
+        <!-- Responsive Toggle Button -->
+        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-minus-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+          <span class="hamburger hamburger--slider">
+
+        <span class="hamburger-box">
+
+          <span class="hamburger-inner"></span>
+          </span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Logo -->
+        <a href="/" class="navbar-brand d-flex">
+          <img alt="GoChain Logo" style="height: 50px" src="/assets/gochain-logo-8fe6e24e30bf1ebb4393e2f31400e8a27b927445a63641c1992829a537f94e3f.png" />
+        </a>
+        <!-- End Logo -->
+
+        <!-- Navigation -->
+        <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg g-mr-40--lg" id="navBar">
+          <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
+
+            <!-- Solutions -->
+            <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--solutions" class="nav-link g-py-7 g-px-0" href="/solutions" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--solutions">Solutions</a>
+            </li>
+            <!-- End Solutions -->
+
+            <!-- Services -->
+           <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+             <a id="nav-link--services" class="nav-link g-py-7 g-px-0" href="/services" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--services">Services</a>
+           </li>
+           <!-- End Services -->
+
+             <!-- Network -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <!--  hs-has-sub-menu -->
+              <a id="nav-link--network" class="nav-link g-py-7 g-px-0" href="/network" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--network">Network</a>
+            </li>
+            <!-- End Network -->
+
+
+             <!-- About -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--about" class="nav-link g-py-7 g-px-0" href="/about" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">About</a>
+            </li>
+            <!-- End About -->
+
+             <!-- Support -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--support" class="nav-link g-py-7 g-px-0" href="/support" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">Support</a>
+            </li>
+            <!-- End Support -->
+
+
+
+
+
+
+
+          </ul>
+        </div>
+        <!-- End Navigation -->
+
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- End Header -->
+
+<!-- content wrapper -->
+<div style="margin-top: 88px;">
+
+
+      
+
+    <!-- Promo Block -->
+    <section class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll loaded dzsprx-readyall" data-options='{direction: "fromtop", animation_duration: 25, direction: "reverse"}'>
+      <!-- Parallax Image -->
+      <div class="divimage dzsparallaxer--target w-100 g-bg-cover g-bg-pos-center g-bg-black-opacity-0_2--after" style="height: 140%; background-image: url(/assets/about-global-95964973fae9e774f2096a59b5acf97f1b3ad9e689a45b47dab9996e8ea4bb68.jpg);"></div>
+      <!-- End Parallax Image -->
+
+      <!-- Promo Block Content -->
+      <div class="container g-color-white text-center g-py-150">
+        <h3 class="h1 text-uppercase mb-0">We Are GoChain</h3>
+        <span class="d-block g-font-weight-300 g-font-size-25 mb-3">A Global Team Building a Better World</span>
+      </div>
+      <!-- Promo Block Content -->
+    </section>
+    <!-- End Promo Block -->
+
+    <section class="container g-pt-100 g-pb-50">
+      <div class="row justify-content-center g-mb-20">
+        <div class="col-lg-7">
+          <!-- Heading -->
+          <div class="text-center">
+            <h2 class="h3 g-color-black text-uppercase mb-2">About GoChain</h2>
+            <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+            <p class="mb-0">
+            The core team is a group of software engineers, tech founders and business leaders who have spent their careers building high scale, distributed cloud systems, including high performance messaging, data storage and compute services for cloud infrastructure. This experience is a natural fit for an inherently distributed system like a public blockchain. The founders have built and exited successful startups with funding from top-tier Silicon Valley VCs.
+            </p>
+          </div>
+          <!-- End Heading -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Team Blocks -->
+<section class="container g-pt-40 g-pb-70">
+  <div class="row justify-content-center g-mb-60">
+    <div class="col-lg-7">
+      <!-- Heading -->
+      <div class="text-center">
+        <h2 class="h3 g-color-black text-uppercase mb-2">Meet the Team</h2>
+        <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+      </div>
+      <!-- End Heading -->
+    </div>
+  </div>
+
+  <div class="row justify-content-center g-mb-40" style="margin-bottom: 20px !important;">
+    <div class="col-lg-7">
+      <!-- Heading -->
+      <div class="text-center">
+        <h3 class="h4 g-color-black text-uppercase mb-2">Founders</h3>
+      </div>
+      <!-- End Heading -->
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 0 0 auto;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/jasondekker2.jpg" alt="Jason Dekker">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/jason-dekker-2a10155/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">CEO & Co-founder</em>
+        <h4 class="h5 g-color-black g-mb-5">Jason Dekker</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 auto 0 0;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/travisreeder.jpg" alt="Travis Reeder">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/treeder/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">CTO & Co-founder</em>
+        <h4 class="h5 g-color-black g-mb-5">Travis Reeder</h4>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="row justify-content-center g-mb-40" style="margin-bottom: 20px !important;">
+    <div class="col-lg-7">
+      <!-- Heading -->
+      <div class="text-center">
+        <h3 class="h4 g-color-black text-uppercase mb-2">Engineering</h3>
+      </div>
+      <!-- End Heading -->
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/benjohnson.jpg" alt="Ben Johnson">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/benbjohnson/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Sr. Software
+          Engineer</em>
+        <h4 class="h5 g-color-black g-mb-5">Ben Johnson</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/jordankrage.jpg" alt="Jordan Krage">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/jordankrage/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Sr. Software
+          Engineer</em>
+        <h4 class="h5 g-color-black g-mb-5">Jordan Krage</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/romankononov.jpg" alt="Roman Kononov">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/rkononov/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Sr. Software
+          Engineer</em>
+        <h4 class="h5 g-color-black g-mb-5">Roman Kononov</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/murat-baybosunov.jpg" alt="Murat Baybosunov">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://twitter.com/ink_berk">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/murat-baybosunov/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Sr. Software
+          Engineer</em>
+        <h4 class="h5 g-color-black g-mb-5">Murat Baybosunov</h4>
+      </div>
+    </div>
+  </div>
+
+  <div class="row justify-content-center g-mb-40" style="margin-bottom: 20px !important;">
+    <div class="col-lg-7">
+      <!-- Heading -->
+      <div class="text-center">
+        <h3 class="h4 g-color-black text-uppercase mb-2">Marketing & Biz Dev</h3>
+      </div>
+      <!-- End Heading -->
+    </div>
+  </div>
+  <div class="row">
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/jamesonstafford.jpg" alt="Jameson Stafford">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/jjstafford/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">SVP of
+          Marketing</em>
+        <h4 class="h5 g-color-black g-mb-5">Jameson Stafford</h4>
+      </div>
+    </div>
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/marie-gonzalez.jpg" alt="Marie Gonazelez">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/mariegonzalezbtc/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Director of Marketing</em>
+        <h4 class="h5 g-color-black g-mb-5">Marie Gonzalez</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/ianalexander.jpg" alt="Ian Alexander">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/ian-alexander/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Director of Business Development</em>
+        <h4 class="h5 g-color-black g-mb-5">Ian Alexander</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/adamnorris2.jpg" alt="Adam Norris">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/adam-norris-26064299/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Director of Operations &amp;
+        Community</em>
+        <h4 class="h5 g-color-black g-mb-5">Adam Norris</h4>
+      </div>
+    </div>
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 0 0 auto;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/bareksekandari.jpg" alt="Barek Sekandari">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/barek-sekandari-597752153/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">EU &amp; APAC Business
+          Development</em>
+        <h4 class="h5 g-color-black g-mb-5">Barek Sekandari</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 auto 0 0;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/brookehansen.jpg" alt="Brooke Hansen">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-px-10 g-flex-centered">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/brookehansen1/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Social Media
+          Director
+        </em>
+        <h4 class="h5 g-color-black g-mb-5">Brooke Hansen</h4>
+      </div>
+    </div>
+
+  </div>
+</section>
+<!-- End Team Blocks -->
+
+    <section class="container g-pt-100 g-pb-70">
+  <div class="row justify-content-center g-mb-60">
+    <div class="col-lg-7">
+      <!-- Heading -->
+      <div class="text-center">
+        <h2 class="h3 g-color-black text-uppercase mb-2">Advisors</h2>
+        <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+      </div>
+      <!-- End Heading -->
+    </div>
+  </div>
+
+  <div class="row">
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/billmacaitis.png" alt="Bill Macaitis">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/bmacaitis/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Ex-CMO at Zendesk
+          and Slack</em>
+        <h4 class="h5 g-color-black g-mb-5">Bill Macaitis</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/davidrkoenig.png" alt="David R. Koenig">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/davidrkoenig/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Founder (b)right
+          governance
+          Author of Governance Reimagined</em>
+        <h4 class="h5 g-color-black g-mb-5">David R. Koenig</h4>
+      </div>
+    </div>
+
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/benngodenzi.jpeg" alt="Benn Godenzi">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/mbtechnologies/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Co-founder MB
+          Technology</em>
+        <h4 class="h5 g-color-black g-mb-5">Benn Godenzi</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/chadarimura.jpg" alt="Chad Arimura">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/chadarimura">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">VP Cloud at
+          Oracle</em>
+        <h4 class="h5 g-color-black g-mb-5">Chad Arimura</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/morganmackles.jpg" alt="Morgan Mackles">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/morganmackles">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">VP Sales at
+          X.ai</em>
+        <h4 class="h5 g-color-black g-mb-5">Morgan Mackles</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/etiennevantkruys.jpeg" alt="Etiënne VantKruys">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/evtkruys">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Founder Token
+          Research Group</em>
+        <h4 class="h5 g-color-black g-mb-5">Etiënne VantKruys</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/majidalmansouri.jpeg" alt="Dr. Majid Almansouri">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/majidalmansouri">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">CEO at
+          ChainVisory</em>
+        <h4 class="h5 g-color-black g-mb-5">Dr. Majid Almansouri</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/shihabalhashimi.jpg" alt="Shihab Al Hashimi">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/shihab-al-hashimi-33a27a157/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">CSO at HG
+          Partners</em>
+        <h4 class="h5 g-color-black g-mb-5">Shihab Al Hashimi</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 0 0 auto;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/matthewskinner.jpg" alt="Matthew Skinner">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/skinnermatthew/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Founder at
+          SolutionBase</em>
+        <h4 class="h5 g-color-black g-mb-5">Matthew Skinner</h4>
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/alexbarrett.jpg" alt="Alex Barrett">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/alexbarrett1/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Founder and CEO at
+          Likemoji</em>
+        <h4 class="h5 g-color-black g-mb-5">Alex Barrett</h4>
+      </div>
+    </div>
+
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30" style="margin: 0 auto 0 0;">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <img class="w-100" src="../../assets/img/team/emilybush.jpg" alt="Emily Bush">
+          <figcaption class="u-block-hover__additional--fade g-bg-primary-opacity-0_9 g-flex-centered g-px-10">
+            <!--<q class="u-quote-v1 g-flex-middle-item g-color-white g-font-weight-700 g-font-size-16 text-uppercase"></q>-->
+            <ul class="list-inline g-flex-middle-item--bottom g-mb-30 mt-0">
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="">
+                  <i class="fa fa-twitter"></i>
+                </a>
+              </li>
+              <li class="list-inline-item g-mx-3">
+                <a target="_blank" class="u-icon-v3 u-icon-size--xs g-bg-white g-color-primary g-color-primary--hover g-bg-black--hover" href="https://www.linkedin.com/in/emilyrudolphbush/">
+                  <i class="fa fa-linkedin"></i>
+                </a>
+              </li>
+            </ul>
+          </figcaption>
+        </figure>
+        <em class="d-block g-font-style-normal g-font-size-11 text-uppercase g-color-primary g-mb-5">Managing Partner of
+          Decentra Capital
+          Previous venture partner at DNA.Fund</em>
+        <h4 class="h5 g-color-black g-mb-5">Emily Bush</h4>
+      </div>
+    </div>
+
+
+
+  </div>
+</section>
+<!-- End Team Blocks -->
+
+    <section class="container g-pt-100 g-pb-70">
+  <div class="row justify-content-center g-mb-60">
+    <div class="col-lg-7">
+      <div class="text-center">
+        <h2 class="h3 g-color-black text-uppercase mb-2">Partners</h2>
+        <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered"></a>
+            <a target="_blank" href="https://www.amazix.com/"><img class="w-75" src="../../assets/img/partners/amazix.png" alt="Amazix"></a>
+          </div>
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://www.amazix.com/">Amazix</a></h4> -->
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="https://www.renownedandco.com/"><img class="w-75" src="../../assets/img/partners/renowned.png" alt="Renowned"></a>
+          </div>
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://www.renownedandco.com/">Renowned</a></h4> -->
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="https://www.carnabycapital.com/"><img class="w-75" src="../../assets/img/partners/carnabycapital.png" alt="Carnaby Capital"></a>
+          </div>
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://www.carnabycapital.com/">Carnaby Capital</a></h4> -->
+      </div>
+    </div>
+
+
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="http://blockox.vc/"><img class="w-75" src="../../assets/img/partners/blockoxfund.jpg" alt="Blockox Fund"></a>
+          </div>
+
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="http://blockox.vc/">Blockox Fund</a></h4> -->
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="https://trustwallet.com/"><img class="w-75" src="../../assets/img/partners/trustwallet.png" alt="Trust Wallet"></a>
+          </div>
+
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://trustwallet.com/">Trust Wallet</a></h4> -->
+      </div>
+    </div>
+
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="https://www.chainvisory.io/"><img class="w-75" src="../../assets/img/partners/chainvisory.png" alt="ChainVisory"></a>
+          </div>
+
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://www.chainvisory.io/">ChainVisory</a></h4> -->
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="https://trgroup.io/"><img class="w-75" src="../../assets/img/partners/tokenrgroup.jpg" alt="Token Research Group"></a>
+          </div>
+
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="https://trgroup.io/">Token Research Group</a></h4> -->
+      </div>
+    </div>
+
+    <div class="col-lg-3 col-sm-6 g-mb-30">
+      <div class="text-center u-block-hover">
+        <figure class="u-block-hover g-mb-25">
+          <div style="height:245px;" class="g-flex-centered">
+            <a target="_blank" href="http://ang.fund/"><img class="w-75" src="../../assets/img/partners/angfund.jpg" alt="AngFund"></a>
+          </div>
+
+        </figure>
+        <!-- <h4 class="h5 g-color-black g-mb-5"><a target="_blank" href="http://ang.fund/">AngFund</a></h4> -->
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End Team Blocks -->
+
+
+    <!-- Testimonials -->
+    <section class="g-bg-gray-light-v5 g-pt-100 g-pb-50">
+      <div class="container">
+        <div class="row justify-content-center g-mb-60">
+          <div class="col-lg-7">
+            <!-- Heading -->
+            <div class="text-center">
+              <h2 class="h3 g-color-black text-uppercase mb-2">What people say about GoChain</h2>
+              <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+              <p class="mb-0">The GoChain team works day and night to provide the best and most reliable blockchain on the market.</p>
+            </div>
+            <!-- End Heading -->
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 g-mb-50">
+            <!-- Testimonials -->
+            <blockquote class="lead u-blockquote-v1 rounded g-pl-60 g-pr-30 g-py-30 g-mb-40">I like the team behind GoChain because they’re running the company with passion. No promises or hopes and dreams.  Just results, over and over again!</blockquote>
+            <div class="media">
+              <img class="d-flex align-self-center rounded-circle g-width-60 g-brd-around g-brd-3 g-brd-white mr-3" src="../../assets/img/testimonials/mikeleemberg.jpeg" alt="Image Description">
+              <div class="media-body align-self-center">
+                <h4 class="h6 g-font-weight-700 g-mb-0">Mike L.</h4>
+                <em class="g-color-gray-dark-v4 g-font-style-normal">Community Ambassador</em>
+              </div>
+            </div>
+            <!-- End Testimonials -->
+          </div>
+
+          <div class="col-md-6 g-mb-50">
+            <!-- Testimonials -->
+            <blockquote class="lead u-blockquote-v1 rounded g-pl-60 g-pr-30 g-py-30 g-mb-40">The Aquatica Foundation is excited to partner with GoChain and publicly support the cause of a greener, energy efficient, and scalable blockchain.</blockquote>
+            <div class="media">
+              <img class="d-flex align-self-center rounded-circle g-width-60 g-brd-around g-brd-3 g-brd-white mr-3" src="../../assets/img/testimonials/team-jerry-reid.png" alt="Image Description">
+              <div class="media-body align-self-center">
+                <h4 class="h6 g-font-weight-700 g-mb-0">Jerry R.</h4>
+                <em class="g-color-gray-dark-v4 g-font-style-normal">The Aquatica Foundation</em>
+              </div>
+            </div>
+            <!-- End Testimonials -->
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Testimonials -->
+
+
+
+
+      
+</div>
+<!-- end content wrapper -->
+
+
+<script>
+     $(document).ready(function() {
+        $('#newsletter-submit').click(signUpForNewsletter);
+    });
+
+    function signUpForNewsletter() {
+
+          var e = $('#newsletter-email');
+          // var n = $('#newsletter-name');
+          var ev = e.val();
+          // var nv = n.val();
+          var haserr = false;
+          if (ev == "") {
+            haserr = true;
+          }
+          if (!haserr) {
+            try {
+              $crisp.push(["set", "user:email", [ev]])
+              $crisp.push(["set", "session:segments", [["newsletter"]]])
+              $('#newsletter-confirm').show();
+              $('#newsletter-form').hide();
+            } catch(err) {
+              console.error(err);
+              haserr = true;
+            }
+          }
+          if (haserr) {
+            e.css("border", "1px solid red");
+            return;
+          } else {
+            e.css("border", "1px solid grey");
+          }
+          // if (nv == "") {
+          //   console.log("blank n")
+          //   n.css("border", "1px solid red");
+          //   return;
+          // } else {
+          //   n.css("border", "1px solid grey");
+          // }
+
+
+    }
+      </script>
+
+<section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(/assets/img/bg/pattern5.png);">
+  <div class="d-md-flex justify-content-md-center text-center">
+    <div class="align-self-md-center">
+      <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">Sign up for our newsletter</p>
+    </div>
+    <div class="align-self-md-center">
+
+      <div style="display: none; text-align: center;" id="newsletter-confirm">
+              Thank you for signing up!
+            </div>
+            <form class="form-inline justify-content-center" id="newsletter-form" onsubmit="signUpForNewsletter(); return false;" >
+              <div class="form-group" style="padding-right:10px;" >
+                <input type="email" id="newsletter-email" class="form-control" placeholder="Your email address" />
+              </div>
+
+              <button class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" type="button" id="newsletter-submit">
+                Subscribe
+              </button>
+
+              <!-- <div class="agree w-100" style="text-align: center;">By signing up you agree to our <a href="#">Terms</a>.</div> -->
+            </form>
+
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<div id="contacts-section" class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 g-py-60">
+  <div class="container">
+
+
+    <div class="row">
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
+        </div>
+
+        <p>GoChain has the best performing public web3 based network which is live and ready to use at 1300tps.
+        Deploy your DApps and smart contracts today to get 100x the performance of Ethereum and reduce your impact on the environment.
+      </p>
+      <p>
+        GoChain is also the most reliable, most performant, 100% Ethereum Compatible blockchain for private networks as well.
+      </p>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest News</h2>
+        </div>
+
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-blockport-25a2bdad4eec">GoChain ($GO) now listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar 11, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-cryptofacil-806dfaff724d">GoChain Now Listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  8, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-partners-with-leading-iris-biometric-company-irisafe-for-joint-development-of-blockchain-b4a7b20c70df">GoChain Partners with Leading...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  6, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Resources</h2>
+        </div>
+
+        <nav class="text-uppercase1">
+          <ul class="list-unstyled g-mt-minus-10 mb-0">
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/about">About Us</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+        </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/network">Public Network</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/services">Our Services</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+
+          <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain">Blog</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+           <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io">Knowledge Base</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io/en/article/jobs-1vb4ik3/">Jobs</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.foundation">GoChain Foundation</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Our Contacts</h2>
+        </div>
+
+        <address class="g-bg-no-repeat g-font-size-12 mb-0" style="background-image: url(/assets/img/maps/map2.png);">
+
+      <!-- Location -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-map-marker"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">Charlestown<br/>Nevis, W.I.</p>
+
+      </div>
+
+      <!-- End Location -->
+
+
+
+      <!-- Phone -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-comments"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+           <a onclick="$crisp.push(['do', 'chat:open'])" href="#!" class="g-color-white-opacity-0_8 g-color-white--hover">Chat with us</a>
+           <br/>
+           <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/cdn-cgi/l/email-protection#3c55525a537c5b535f545d5552125553"><span class="__cf_email__" data-cfemail="ff96919990bf98909c979e9691d19690">[email&#160;protected]</span></a>
+        </p>
+
+      </div>
+
+      <!-- End Phone -->
+
+
+
+      <!-- Email and Website -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-globe"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+
+
+          <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.io">gochain.io</a>
+
+        </p>
+
+      </div>
+
+      <!-- End Email and Website -->
+
+    </address>
+      </div>
+      <!-- End Footer Content -->
+    </div>
+  </div>
+</div>
+<!-- End Footer -->
+
+<!-- Copyright Footer -->
+<footer class="g-bg-gray-dark-v1 g-color-white-opacity-0_8 g-py-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 text-center text-md-left g-mb-10 g-mb-0--md">
+        <div class="d-lg-flex">
+          <small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">Copyright &copy; 2019 GoChain</small>
+          <ul class="u-list-inline">
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/privacy">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <span>|</span>
+            </li>
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/support">Support</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-4 align-self-center">
+        <ul class="list-inline text-center text-md-right mb-0">
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Telegram">
+            <a href="https://t.me/go_chain" target="_blank" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-telegram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Linkedin">
+            <a href="https://www.linkedin.com/company/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Twitter">
+            <a href="https://twitter.com/go_chain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Medium">
+            <a href="https://medium.com/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Copyright Footer -->
+
+
+      <a class="js-go-to u-go-to-v1" href="#!" data-type="fixed" data-position='{"bottom": 15,"right": 15}' data-offset-top="400" data-compensation="#js-header" data-show-effect="zoomIn">
+        <i class="hs-icon hs-icon-arrow-top"></i>
+      </a>
+
+    </main>
+
+
+    <div class="u-outer-spaces-helper"></div>
+
+    <!-- JS Global Compulsory -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+<script src="/assets/vendor/popper.js/popper.min.js"></script>
+<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
+
+
+<!-- JS Implementing Plugins -->
+<script src="/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
+<script src="/assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
+<script src="/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+<script src="/assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="/assets/vendor/typedjs/typed.min.js"></script>
+
+<!-- JS Unify -->
+<script src="/assets/js/hs.core.js"></script>
+<script src="/assets/js/components/hs.header.js"></script>
+<script src="/assets/js/helpers/hs.hamburgers.js"></script>
+<script src="/assets/js/components/hs.tabs.js"></script>
+<script src="/assets/js/components/hs.popup.js"></script>
+<script src="/assets/js/components/hs.carousel.js"></script>
+<script src="/assets/js/components/text-animation/hs.text-slideshow.js"></script>
+<script src="/assets/js/components/hs.go-to.js"></script>
+
+<!-- JS Customization -->
+<script src="/assets/js/custom.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(document).on('ready', function () {
+      // initialization of carousel
+      $.HSCore.components.HSCarousel.init('.js-carousel');
+
+      // initialization of tabs
+      $.HSCore.components.HSTabs.init('[role="tablist"]');
+
+      // initialization of popups
+      $.HSCore.components.HSPopup.init('.js-fancybox');
+
+      // initialization of go to
+      $.HSCore.components.HSGoTo.init('.js-go-to');
+
+      // initialization of text animation (typing)
+      $(".u-text-animation.u-text-animation--typing").typed({
+        strings: [
+          "10x more decentralized",
+          "100x faster",
+          "1000x greener"
+        ],
+        typeSpeed: 60,
+        loop: true,
+        backDelay: 1500
+      });
+    });
+
+    $(window).on('load', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#js-header'));
+      $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 991
+      });
+    });
+
+    $(window).on('resize', function () {
+      setTimeout(function () {
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+      }, 200);
+    });
+</script>
+
+
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="66522af9-60ab-41e9-8d67-7981d7e8a173";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
+  </body>
+</html>

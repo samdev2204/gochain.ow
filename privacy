@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>GoChain - Smarter, Better, Faster, Stronger Blockchain</title>
+    <meta name="description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency.">
+    <meta name="author" content="GoChain">
+
+    <meta property="og:title" content="GoChain - Smarter, Better, Faster, Stronger Blockchain" />
+    <meta property="og:description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency." />
+    <meta property="og:image" content="https:https://gochain.io/assets/images/gochain-crypto-logo.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://gochain.io/privacy" />
+    <meta property="og:site_name" content="GoChain" />
+    <meta property="fb:app_id" content="208112539741504" />
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="48J9/XAZ6M44ArXXpInj4Fs7gCuKPGi6QbShvc4/5XUWSpB8omwzz3mIDijydMb5qP0doWXDtQKXM6VFChT4zg==" />
+    
+
+    <link rel="stylesheet" media="all" href="/assets/application-be71e4af7ff0edb7c56561587cc1014ac68f192ff845cda3d613d46a223850f4.css" />
+    <script src="/assets/application-a26b426d94945d28bc558156b0ba398e246b1a45b98702aa11acb45da5a692a3.js"></script>
+
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-j8y0ITrvFafF4EkV1mPW0BKm6dp3c+J9Fky22Man50Ofxo2wNe5pT1oZejDH9/Dt" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- CSS Global Compulsory -->
+<link rel="stylesheet" href="/assets/vendor/bootstrap/bootstrap.min.css">
+<!-- CSS Global Icons -->
+<link rel="stylesheet" href="/assets/vendor/icon-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line/css/simple-line-icons.css">
+<link rel="stylesheet" href="/assets/vendor/icon-etlinefont/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line-pro/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-hs/style.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsparallaxer.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
+<link rel="stylesheet" href="/assets/vendor/animate.css">
+<link rel="stylesheet" href="/assets/vendor/fancybox/jquery.fancybox.min.css">
+<link rel="stylesheet" href="/assets/vendor/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="/assets/vendor/typedjs/typed.css">
+<link rel="stylesheet" href="/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+<link rel="stylesheet" href="/assets/vendor/hamburgers/hamburgers.min.css">
+
+<!-- CSS Unify -->
+<link rel="stylesheet" href="/assets/css/unify-core.css">
+<link rel="stylesheet" href="/assets/css/unify-components.css">
+<link rel="stylesheet" href="/assets/css/unify-globals.css">
+
+<!-- CSS Customization -->
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.min.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+      </script>
+
+  </head>
+
+  <body>
+
+    <main>
+
+      <!-- Header -->
+
+<header id="js-header" class="u-header u-header--sticky-top u-header--toggle-section u-header--change-appearance" data-header-fix-moment="300">
+  <div style="" class="u-header__section u-header__section--light g-bg-white g-transition-0_3 g-py-10" data-header-fix-moment-exclude="g-py-10" data-header-fix-moment-classes="u-shadow-v18  g-py-0">
+    <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
+
+      <div class="container">
+        <!-- Responsive Toggle Button -->
+        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-minus-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+          <span class="hamburger hamburger--slider">
+
+        <span class="hamburger-box">
+
+          <span class="hamburger-inner"></span>
+          </span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Logo -->
+        <a href="/" class="navbar-brand d-flex">
+          <img alt="GoChain Logo" style="height: 50px" src="/assets/gochain-logo-8fe6e24e30bf1ebb4393e2f31400e8a27b927445a63641c1992829a537f94e3f.png" />
+        </a>
+        <!-- End Logo -->
+
+        <!-- Navigation -->
+        <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg g-mr-40--lg" id="navBar">
+          <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
+
+            <!-- Solutions -->
+            <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--solutions" class="nav-link g-py-7 g-px-0" href="/solutions" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--solutions">Solutions</a>
+            </li>
+            <!-- End Solutions -->
+
+            <!-- Services -->
+           <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+             <a id="nav-link--services" class="nav-link g-py-7 g-px-0" href="/services" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--services">Services</a>
+           </li>
+           <!-- End Services -->
+
+             <!-- Network -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <!--  hs-has-sub-menu -->
+              <a id="nav-link--network" class="nav-link g-py-7 g-px-0" href="/network" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--network">Network</a>
+            </li>
+            <!-- End Network -->
+
+
+             <!-- About -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--about" class="nav-link g-py-7 g-px-0" href="/about" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">About</a>
+            </li>
+            <!-- End About -->
+
+             <!-- Support -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--support" class="nav-link g-py-7 g-px-0" href="/support" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">Support</a>
+            </li>
+            <!-- End Support -->
+
+
+
+
+
+
+
+          </ul>
+        </div>
+        <!-- End Navigation -->
+
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- End Header -->
+
+<!-- content wrapper -->
+<div style="margin-top: 88px;">
+
+
+      <div>
+<h1>Privacy Policy</h1>
+
+<p>This Privacy Policy is designed to assist you with understanding how GoChain (&quot;GoChain&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) collect, use and disclose the information you provide us when accessing or using the website, gochain.io (“Website”).</p>
+
+<h2>Changes to our Privacy Policy</h2>
+
+<p>We may change this Privacy Policy in our sole discretion at any time. Any revisions to this Privacy Policy will be posted on the homepage of the Website. It is your obligation to periodically visit the Website to review any changes that may be made to this Privacy Policy. Your continued use of the Website constitutes your agreement to be bound by any such changes to this Privacy Policy. If you do not agree with this Privacy Policy, you are not authorized to use the Website and your sole recourse is to not use the Website.</p>
+
+<h2>What Information Do We Collect?</h2>
+
+<p>When you visit our Website, you may provide us with two types of information: personal information that you voluntarily disclose that is collected on an individual basis; and information collected automatically when you use our Website or the services available on our Website (collectively, the “Information”).
+What is Personal Information?
+Personal information is collected only when voluntarily offered and solely for purposes that are clearly identified on our Website. Personal information means any information that is unique to you, such as your:
+Name
+Username
+Password
+E-mail address
+Cryptocurrency address
+Mailing address
+Other personal information you choose to provide</p>
+
+<p>By providing us with your personal information, you also consent for us to collect, hold, use and disclose your personal information in accordance with this Privacy Policy. In addition to providing the foregoing information, if you choose to correspond further with us through e-mail or through the “contact” section of our Website, we may retain, use and disclose the content of your messages together with your e-mail address and our responses.</p>
+
+<h2>What Information is Collected Automatically?</h2>
+
+<p>When you use our Website or services available on our Website, we automatically collect information from your devices. We collect the following information:</p>
+
+<ul>
+<li>Server Log Information:  We collect server log information when you use our Website, which may include (but is not limited to) your login details, the date and time of visits, the pages viewed, your IP address, time spent at our Website and the websites you visit just before and just after our Website.</li>
+<li>Device Information: We collect information about the computer or mobile device you use to access our Website, including the hardware model, operating system and version, the web browser you use, and other device identifiers.</li>
+<li>Telemetry Information. If you use any of our open source software, we may collect bandwidth upload and download speeds, the amount of free and used storage space on your device and other statistics about your device.</li>
+<li>Usage Information. If you use our Website, we will collect metadata about the files you upload for storage and we will record instances in which you have used your private key to authenticate communications.</li>
+<li>Information Collected by Cookies and Other Tracking Technologies: We and our service providers use various technologies to collect information when you interact with our Website, including cookies and web beacons. Cookies are small data files that are stored on your device when you visit a website, which enable us to collect information about your device identifiers, IP address, web browsers used to access the Website, pages or features viewed, time spent on pages, mobile app performance and links clicked. Web beacons are graphic images that are placed on a website or in an email that is used to monitor the behaviour of the user visiting the website or sending the email. They are often used in combination with cookies.</li>
+</ul>
+
+<h2>Use of Information</h2>
+
+<p>We will only use the Information for purposes of:</p>
+
+<ul>
+<li>providing, maintaining, delivering or improving our Website or the products or services provided through our Website;</li>
+<li>analyzing and tracking data to determine the usefulness or popularity of certain content and to better understand the online activity of our Website users;</li>
+<li>fulfilling our legal or regulatory requirements;</li>
+<li>providing you with the information or products or services that you have requested;</li>
+<li>answering your inquiry or responding to a communication from you;</li>
+<li>developing new products or services;</li>
+<li>sending you technical notices, support or administrative notifications;</li>
+<li>communicating with you about news, products, services, events and other information we think will be of interest to you;</li>
+<li>matching your Information with job vacancies to assist us in finding a position that is most suitable for you if you have contacted us about recruitment;</li>
+<li>monitoring and analyzing trends, usage and activities in connection with our Website;</li>
+<li>detecting, investigating and preventing fraudulent transactions or unauthorized or illegal activities;</li>
+<li>protecting the rights and property of the GoChain Parties (as defined below) and others;</li>
+<li>linking, connecting or combining Information we collect from or about you with other Information; and</li>
+<li>carrying out any other purpose or reason for which the Information was collected.</li>
+</ul>
+
+<h2>Sharing of Information</h2>
+
+<p>We will only share Information about you in the following ways:</p>
+
+<ul>
+<li>with your consent or at your instruction;</li>
+<li>with our current or future parent companies, affiliates, subsidiaries and with other companies under common control or ownership with us or our offices internationally;</li>
+<li>with third parties or service providers that perform work for us;</li>
+<li>certain information you may choose to share may be displayed publicly, such as your username and any content you post when you use interactive areas of our Website like our online forums;
+in connection with a merger or sale of our company assets, or if we do a financing or are involved in an acquisition or any other situation where Information may be disclosed or transferred as one of our business assets;</li>
+<li>in response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation or legal process;</li>
+<li>if we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property and safety of any GoChain Party or others; and</li>
+<li>with third parties where aggregate Information is disclosed which cannot be reasonably be used to identify you.</li>
+</ul>
+
+<h2>Social Sharing Features</h2>
+
+<p>Our Website may offer social sharing features, links to social media and other integrated tools. Your use of such features enables the sharing of information with your contacts or the public, depending on the settings you use with the entity that provides the social sharing feature or social media. Please visit the privacy policies of the entities that provide these features to obtain more information about the purpose and scope of data collection and the processing of such data by such entities.</p>
+
+<h2>Protection of Personal Information</h2>
+
+<p>We take reasonable steps to protect the security of the information communicated through our Website. However, no computer security system is entirely foolproof and the Internet is not a secure method of transmitting information. As a result, we do not assume any responsibility for the data you submit to or receive from us through the Internet or for any unauthorised access or use of that information and we cannot and do not guarantee that information communicated by you to us or sent to you by us will be received or that it will not be altered before or after its transmission to us. You agree to not hold us and our respective past, present and future employees, officers, directors, contractors, consultants, equity holders, suppliers, vendors, service providers, parent companies, subsidiaries, affiliates, agents, representatives, predecessors, successors and assigns (collectively, the “GoChain Parties”) liable for any loss or damage of any sort incurred as a result of any misappropriation, interception, modification, deletion, destruction or use of information provided through our Website.
+Most web browsers are set to accept cookies as a default. You may wish to opt out by turning off cookies (please refer to the help menu on your browser); however, switching off cookies may restrict your use of our Website.</p>
+
+<p>You may also opt out of receiving promotional communications from us at any time by following the instructions in those communications. If you opt out, we may still send you non-promotional communications, such as technical notices, support or administrative notifications or information about your account (if you have one).</p>
+
+<h2>Hyperlinks and Third-Party Sites</h2>
+
+<p>This Website may contain links to other third party websites that may collect personal information about you, including through cookies or other technologies. If you link to another website, you will leave this Website and this Privacy Policy will not apply to your use of and activity on those other websites. You should consult these other websites&#39; privacy policies as we have no control over them and are not responsible for any information that is submitted to or collected by these third parties.</p>
+
+<h2>Contact Us</h2>
+
+<p>If you have any questions about this Privacy Policy, please contact us at <a href="/cdn-cgi/l/email-protection#15666065657a676155727a767d747c7b3b7c7a"><span class="__cf_email__" data-cfemail="0e7d7b7e7e617c7a4e69616d666f6760206761">[email&#160;protected]</span></a>.
+Dated: May 1, 2018</p>
+
+</div>
+
+
+      
+</div>
+<!-- end content wrapper -->
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+     $(document).ready(function() {
+        $('#newsletter-submit').click(signUpForNewsletter);
+    });
+
+    function signUpForNewsletter() {
+
+          var e = $('#newsletter-email');
+          // var n = $('#newsletter-name');
+          var ev = e.val();
+          // var nv = n.val();
+          var haserr = false;
+          if (ev == "") {
+            haserr = true;
+          }
+          if (!haserr) {
+            try {
+              $crisp.push(["set", "user:email", [ev]])
+              $crisp.push(["set", "session:segments", [["newsletter"]]])
+              $('#newsletter-confirm').show();
+              $('#newsletter-form').hide();
+            } catch(err) {
+              console.error(err);
+              haserr = true;
+            }
+          }
+          if (haserr) {
+            e.css("border", "1px solid red");
+            return;
+          } else {
+            e.css("border", "1px solid grey");
+          }
+          // if (nv == "") {
+          //   console.log("blank n")
+          //   n.css("border", "1px solid red");
+          //   return;
+          // } else {
+          //   n.css("border", "1px solid grey");
+          // }
+
+
+    }
+      </script>
+
+<section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(/assets/img/bg/pattern5.png);">
+  <div class="d-md-flex justify-content-md-center text-center">
+    <div class="align-self-md-center">
+      <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">Sign up for our newsletter</p>
+    </div>
+    <div class="align-self-md-center">
+
+      <div style="display: none; text-align: center;" id="newsletter-confirm">
+              Thank you for signing up!
+            </div>
+            <form class="form-inline justify-content-center" id="newsletter-form" onsubmit="signUpForNewsletter(); return false;" >
+              <div class="form-group" style="padding-right:10px;" >
+                <input type="email" id="newsletter-email" class="form-control" placeholder="Your email address" />
+              </div>
+
+              <button class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" type="button" id="newsletter-submit">
+                Subscribe
+              </button>
+
+              <!-- <div class="agree w-100" style="text-align: center;">By signing up you agree to our <a href="#">Terms</a>.</div> -->
+            </form>
+
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<div id="contacts-section" class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 g-py-60">
+  <div class="container">
+
+
+    <div class="row">
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
+        </div>
+
+        <p>GoChain has the best performing public web3 based network which is live and ready to use at 1300tps.
+        Deploy your DApps and smart contracts today to get 100x the performance of Ethereum and reduce your impact on the environment.
+      </p>
+      <p>
+        GoChain is also the most reliable, most performant, 100% Ethereum Compatible blockchain for private networks as well.
+      </p>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest News</h2>
+        </div>
+
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-blockport-25a2bdad4eec">GoChain ($GO) now listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar 11, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-cryptofacil-806dfaff724d">GoChain Now Listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  8, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-partners-with-leading-iris-biometric-company-irisafe-for-joint-development-of-blockchain-b4a7b20c70df">GoChain Partners with Leading...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  6, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Resources</h2>
+        </div>
+
+        <nav class="text-uppercase1">
+          <ul class="list-unstyled g-mt-minus-10 mb-0">
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/about">About Us</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+        </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/network">Public Network</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/services">Our Services</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+
+          <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain">Blog</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+           <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io">Knowledge Base</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io/en/article/jobs-1vb4ik3/">Jobs</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.foundation">GoChain Foundation</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Our Contacts</h2>
+        </div>
+
+        <address class="g-bg-no-repeat g-font-size-12 mb-0" style="background-image: url(/assets/img/maps/map2.png);">
+
+      <!-- Location -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-map-marker"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">Charlestown<br/>Nevis, W.I.</p>
+
+      </div>
+
+      <!-- End Location -->
+
+
+
+      <!-- Phone -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-comments"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+           <a onclick="$crisp.push(['do', 'chat:open'])" href="#!" class="g-color-white-opacity-0_8 g-color-white--hover">Chat with us</a>
+           <br/>
+           <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/cdn-cgi/l/email-protection#234a4d454c63444c404b424a4d0d4a4c"><span class="__cf_email__" data-cfemail="8de4e3ebe2cdeae2eee5ece4e3a3e4e2">[email&#160;protected]</span></a>
+        </p>
+
+      </div>
+
+      <!-- End Phone -->
+
+
+
+      <!-- Email and Website -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-globe"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+
+
+          <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.io">gochain.io</a>
+
+        </p>
+
+      </div>
+
+      <!-- End Email and Website -->
+
+    </address>
+      </div>
+      <!-- End Footer Content -->
+    </div>
+  </div>
+</div>
+<!-- End Footer -->
+
+<!-- Copyright Footer -->
+<footer class="g-bg-gray-dark-v1 g-color-white-opacity-0_8 g-py-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 text-center text-md-left g-mb-10 g-mb-0--md">
+        <div class="d-lg-flex">
+          <small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">Copyright &copy; 2019 GoChain</small>
+          <ul class="u-list-inline">
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/privacy">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <span>|</span>
+            </li>
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/support">Support</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-4 align-self-center">
+        <ul class="list-inline text-center text-md-right mb-0">
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Telegram">
+            <a href="https://t.me/go_chain" target="_blank" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-telegram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Linkedin">
+            <a href="https://www.linkedin.com/company/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Twitter">
+            <a href="https://twitter.com/go_chain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Medium">
+            <a href="https://medium.com/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Copyright Footer -->
+
+
+      <a class="js-go-to u-go-to-v1" href="#!" data-type="fixed" data-position='{"bottom": 15,"right": 15}' data-offset-top="400" data-compensation="#js-header" data-show-effect="zoomIn">
+        <i class="hs-icon hs-icon-arrow-top"></i>
+      </a>
+
+    </main>
+
+
+    <div class="u-outer-spaces-helper"></div>
+
+    <!-- JS Global Compulsory -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+<script src="/assets/vendor/popper.js/popper.min.js"></script>
+<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
+
+
+<!-- JS Implementing Plugins -->
+<script src="/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
+<script src="/assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
+<script src="/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+<script src="/assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="/assets/vendor/typedjs/typed.min.js"></script>
+
+<!-- JS Unify -->
+<script src="/assets/js/hs.core.js"></script>
+<script src="/assets/js/components/hs.header.js"></script>
+<script src="/assets/js/helpers/hs.hamburgers.js"></script>
+<script src="/assets/js/components/hs.tabs.js"></script>
+<script src="/assets/js/components/hs.popup.js"></script>
+<script src="/assets/js/components/hs.carousel.js"></script>
+<script src="/assets/js/components/text-animation/hs.text-slideshow.js"></script>
+<script src="/assets/js/components/hs.go-to.js"></script>
+
+<!-- JS Customization -->
+<script src="/assets/js/custom.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(document).on('ready', function () {
+      // initialization of carousel
+      $.HSCore.components.HSCarousel.init('.js-carousel');
+
+      // initialization of tabs
+      $.HSCore.components.HSTabs.init('[role="tablist"]');
+
+      // initialization of popups
+      $.HSCore.components.HSPopup.init('.js-fancybox');
+
+      // initialization of go to
+      $.HSCore.components.HSGoTo.init('.js-go-to');
+
+      // initialization of text animation (typing)
+      $(".u-text-animation.u-text-animation--typing").typed({
+        strings: [
+          "10x more decentralized",
+          "100x faster",
+          "1000x greener"
+        ],
+        typeSpeed: 60,
+        loop: true,
+        backDelay: 1500
+      });
+    });
+
+    $(window).on('load', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#js-header'));
+      $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 991
+      });
+    });
+
+    $(window).on('resize', function () {
+      setTimeout(function () {
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+      }, 200);
+    });
+</script>
+
+
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="66522af9-60ab-41e9-8d67-7981d7e8a173";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
+  </body>
+</html>

@@ -1,0 +1,957 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+    </script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>GoChain - Smarter, Better, Faster, Stronger Blockchain</title>
+    <meta name="description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency.">
+    <meta name="author" content="GoChain">
+
+    <meta property="og:title" content="GoChain - Smarter, Better, Faster, Stronger Blockchain" />
+    <meta property="og:description" content="GoChain programmable blockchain is fast, secure and green. Top concepts of cryptocurrencies merged into a next generation blockchain and cryptocurrency." />
+    <meta property="og:image" content="https:https://gochain.io/assets/images/gochain-crypto-logo.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="http://gochain.io/services" />
+    <meta property="og:site_name" content="GoChain" />
+    <meta property="fb:app_id" content="208112539741504" />
+
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="AkY1CVN7S2oHP42LxDl4RVXtbn91X2q2Mz4imrGKse73ztiIgQ6Qa0a1NnSSxF1cpivz9Zqgtw7luSZidaGsVQ==" />
+    
+
+    <link rel="stylesheet" media="all" href="/assets/application-be71e4af7ff0edb7c56561587cc1014ac68f192ff845cda3d613d46a223850f4.css" />
+    <script src="/assets/application-a26b426d94945d28bc558156b0ba398e246b1a45b98702aa11acb45da5a692a3.js"></script>
+
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
+
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-j8y0ITrvFafF4EkV1mPW0BKm6dp3c+J9Fky22Man50Ofxo2wNe5pT1oZejDH9/Dt" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- CSS Global Compulsory -->
+<link rel="stylesheet" href="/assets/vendor/bootstrap/bootstrap.min.css">
+<!-- CSS Global Icons -->
+<link rel="stylesheet" href="/assets/vendor/icon-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line/css/simple-line-icons.css">
+<link rel="stylesheet" href="/assets/vendor/icon-etlinefont/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-line-pro/style.css">
+<link rel="stylesheet" href="/assets/vendor/icon-hs/style.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsparallaxer.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/dzsscroller/scroller.css">
+<link rel="stylesheet" href="/assets/vendor/dzsparallaxer/advancedscroller/plugin.css">
+<link rel="stylesheet" href="/assets/vendor/animate.css">
+<link rel="stylesheet" href="/assets/vendor/fancybox/jquery.fancybox.min.css">
+<link rel="stylesheet" href="/assets/vendor/slick-carousel/slick/slick.css">
+<link rel="stylesheet" href="/assets/vendor/typedjs/typed.css">
+<link rel="stylesheet" href="/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+<link rel="stylesheet" href="/assets/vendor/hamburgers/hamburgers.min.css">
+
+<!-- CSS Unify -->
+<link rel="stylesheet" href="/assets/css/unify-core.css">
+<link rel="stylesheet" href="/assets/css/unify-components.css">
+<link rel="stylesheet" href="/assets/css/unify-globals.css">
+
+<!-- CSS Customization -->
+<link rel="stylesheet" href="/assets/css/custom.css">
+
+
+    <!--[if lt IE 9]>
+        <script src="assets/js/html5shiv.min.js"></script>
+        <script src="assets/js/respond.min.js"></script>
+    <![endif]-->
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115867674-2"></script>
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115867674-2');
+      </script>
+
+  </head>
+
+  <body>
+
+    <main>
+
+      <!-- Header -->
+
+<header id="js-header" class="u-header u-header--sticky-top u-header--toggle-section u-header--change-appearance" data-header-fix-moment="300">
+  <div style="" class="u-header__section u-header__section--light g-bg-white g-transition-0_3 g-py-10" data-header-fix-moment-exclude="g-py-10" data-header-fix-moment-classes="u-shadow-v18  g-py-0">
+    <nav class="js-mega-menu navbar navbar-expand-lg hs-menu-initialized hs-menu-horizontal">
+
+      <div class="container">
+        <!-- Responsive Toggle Button -->
+        <button class="navbar-toggler navbar-toggler-right btn g-line-height-1 g-brd-none g-pa-0 g-pos-abs g-top-minus-3 g-right-0" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navBar" data-toggle="collapse" data-target="#navBar">
+          <span class="hamburger hamburger--slider">
+
+        <span class="hamburger-box">
+
+          <span class="hamburger-inner"></span>
+          </span>
+          </span>
+        </button>
+        <!-- End Responsive Toggle Button -->
+
+        <!-- Logo -->
+        <a href="/" class="navbar-brand d-flex">
+          <img alt="GoChain Logo" style="height: 50px" src="/assets/gochain-logo-8fe6e24e30bf1ebb4393e2f31400e8a27b927445a63641c1992829a537f94e3f.png" />
+        </a>
+        <!-- End Logo -->
+
+        <!-- Navigation -->
+        <div class="collapse navbar-collapse align-items-center flex-sm-row g-pt-10 g-pt-5--lg g-mr-40--lg" id="navBar">
+          <ul class="navbar-nav text-uppercase g-pos-rel g-font-weight-600 ml-auto">
+
+            <!-- Solutions -->
+            <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--solutions" class="nav-link g-py-7 g-px-0" href="/solutions" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--solutions">Solutions</a>
+            </li>
+            <!-- End Solutions -->
+
+            <!-- Services -->
+           <li class="nav-item g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+             <a id="nav-link--services" class="nav-link g-py-7 g-px-0" href="/services" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--services">Services</a>
+           </li>
+           <!-- End Services -->
+
+             <!-- Network -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <!--  hs-has-sub-menu -->
+              <a id="nav-link--network" class="nav-link g-py-7 g-px-0" href="/network" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--network">Network</a>
+            </li>
+            <!-- End Network -->
+
+
+             <!-- About -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--about" class="nav-link g-py-7 g-px-0" href="/about" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">About</a>
+            </li>
+            <!-- End About -->
+
+             <!-- Support -->
+            <li class="nav-item  g-mx-10--lg g-mx-15--xl" data-animation-in="fadeIn" data-animation-out="fadeOut">
+              <a id="nav-link--support" class="nav-link g-py-7 g-px-0" href="/support" aria-haspopup="true" aria-expanded="false" aria-controls="nav-submenu--about">Support</a>
+            </li>
+            <!-- End Support -->
+
+
+
+
+
+
+
+          </ul>
+        </div>
+        <!-- End Navigation -->
+
+      </div>
+    </nav>
+  </div>
+</header>
+<!-- End Header -->
+
+<!-- content wrapper -->
+<div style="margin-top: 88px;">
+
+
+      
+
+
+    <!-- Breadcrumbs -->
+    <section class="g-bg-gray-light-v5 g-py-50">
+      <div class="container">
+        <div class="d-sm-flex text-center">
+          <div class="align-self-center">
+            <h2 class="h3 g-font-weight-300 w-100 g-mb-10 g-mb-0--md">GoChain Services</h2>
+          </div>
+
+          <div class="align-self-center ml-auto">
+            <ul class="u-list-inline">
+              <li class="list-inline-item g-mr-5">
+                <a class="u-link-v5 g-color-main g-color-primary--hover" href="/">Home</a>
+                <i class="g-color-gray-light-v2 g-ml-5">/</i>
+              </li>
+              <li class="list-inline-item g-color-primary">
+                <span>Services</span>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!-- End Breadcrumbs -->
+
+
+    <!-- Icon Blocks -->
+    <section class="container u-ns-bg-v1-bottom g-bg-white g-pt-100 g-pb-70">
+      <div class="row justify-content-center g-mb-60">
+        <div class="col-lg-7">
+          <!-- Heading -->
+          <div class="text-center mb-4">
+            <h2 class="h3 text-uppercase mb-3">Our Services</h2>
+            <div class="d-inline-block g-width-60 g-height-1 g-bg-black mb-2"></div>
+            <p class="lead mb-0">
+             If your business needs help implementing blockchain solutions, let the experts at GoChain help you out. We live and breathe blockchain and can help you architect and implement the solutions you need.
+            </p>
+          </div>
+          <!-- End Heading -->
+        </div>
+      </div>
+
+      <!-- Icon Blocks -->
+      <div class="row">
+        <div class="col-lg-4 g-mb-10">
+          <!-- Icon Blocks -->
+          <div class="media g-mb-15">
+            <div class="d-flex mr-4">
+              <span class="g-color-primary g-font-size-26">
+
+                <i class="icon-education-087 u-line-icon-pro"></i>
+
+              </span>
+            </div>
+            <div class="media-body services-block">
+              <h3 class="h5 g-color-black mb-20">Architecture</h3>
+              <p class="g-color-gray-dark-v4">
+                Have an idea, but don't know where to start?  Let our Sr. Engineers and product team help you go from an idea to reality.
+              </p>
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+          <hr class="g-mt-30">
+        </div>
+
+        <div class="col-lg-4 g-mb-10">
+          <!-- Icon Blocks -->
+          <div class="media g-mb-15">
+            <div class="d-flex mr-4">
+              <span class="g-color-primary g-font-size-26">
+
+                <i class="icon-education-035 u-line-icon-pro"></i>
+
+              </span>
+            </div>
+            <div class="media-body services-block">
+              <h3 class="h5 g-color-black mb-20">Development</h3>
+              <p class="g-color-gray-dark-v4">
+                Blockchain development is very new and there aren't a lot of people who know how to do it right. We can implement
+                your ideas from start to finish, using all the best practices for developing decentralized applications.
+              </p>
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+          <hr class="g-mt-30">
+        </div>
+
+        <div class="col-lg-4 g-mb-10">
+          <!-- Icon Blocks -->
+          <div class="media g-mb-15">
+            <div class="d-flex mr-4">
+              <span class="g-color-primary g-font-size-26">
+
+                <i class="icon-education-141 u-line-icon-pro"></i>
+
+              </span>
+            </div>
+            <div class="media-body services-block">
+              <h3 class="h5 g-color-black mb-20">Workshops</h3>
+              <p class="g-color-gray-dark-v4">We also provide onsite workshops for your team to get in-depth blockchain training, from beginner to advanced. Think of it as a blockchain bootcamp for your business.</p>
+            </div>
+          </div>
+          <!-- End Icon Blocks -->
+          <hr class="g-mt-30">
+        </div>
+      </div>
+      <!-- End Icon Blocks -->
+
+      <!-- Icon Blocks -->
+      <div>
+    </section>
+    <!-- End Icon Blocks -->
+
+
+
+          <div class="shortcode-html">
+            <!-- Researches -->
+            <div class="g-pos-rel" style="background-color: #26304d;">
+              <div class="container g-pos-rel g-z-index-1 g-pt-100 g-pb-120">
+                <div class="row align-items-lg-center">
+                  <div class="col-lg-7 order-lg-2 g-mb-50">
+                    <div class="g-pos-rel g-pl-15--lg">
+                      <img class="img-fluid w-100 u-shadow-v19 g-brd-around g-brd-7 g-brd-secondary rounded" src="../../assets/img/img2.jpg" alt="Image Description">
+
+
+                    </div>
+                  </div>
+
+                  <div class="col-lg-5 order-lg-1 g-mb-50">
+                    <!-- Researches - Info -->
+                    <div class="mb-5">
+                      <h2 class="h3 g-color-white mb-4">Blockchain Workshops</h2>
+                      <p class="g-color-white-opacity-0_7">
+                        Blockchain workshops provide your team with hands-on, onsite training for both learning about blockchain
+                        and implementing blockchain solutions.
+                        <br/><br/>
+                        The GoChain consulting and development team offers 1 - 2 day workshops focused on general blockchain training, architecture, 
+                        business concepts, and developer training. Workshops are designed to provide a basic analysis of typical industry challenges and 
+                        solutions. GoChain’s engineers and solutions experts will also dive into specific problems that your business is facing including cost, 
+                        transparency, database architecture, and record auditing, while providing an overview of how these challenges can be overcome by using 
+                        blockchain.
+                      </p>
+                    </div>
+
+                    <div class="media g-max-width-300">
+                      <div class="d-flex mr-3">
+                        <div class="g-width-40 g-height-40">
+                          <img class="img-fluid g-brd-around g-brd-2 g-brd-white rounded-circle" src="../../assets/img/img14.jpg" alt="Image Description">
+                        </div>
+                      </div>
+                      <div class="media-body">
+                        <span class="d-block g-color-white g-font-secondary g-font-size-16 mb-2">"The amazing people at GoChain took our team from blockchain beginners to experts overnight. Great experience."</span>
+                        <h5 class="h6 g-color-primary g-font-primary g-font-weight-700">- Jeff S</h5>
+                      </div>
+                    </div>
+
+                    <br/><br/>
+                    <a onclick="$crisp.push(['do', 'chat:open']); $crisp.push(['set', 'message:text', ['Hi, I am interested in a Blockchain Workshop for my team.']]);" class="btn text-uppercase u-btn-primary g-rounded-50 g-font-size-12 g-font-weight-700 g-pa-15-30 g-mb-10" href="#!">Contact Us</a>
+
+                    <!-- End Researches - Info -->
+                  </div>
+                </div>
+              </div>
+
+              <!-- SVG Background Shape -->
+              <svg class="g-pos-abs g-bottom-0 g-left-0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 323" enable-background="new 0 0 1920 323" xml:space="preserve">
+                <polygon fill="#2c3856" points="0,323 1920,323 1920,0 "></polygon>
+                <polygon fill="#293451" points="-0.5,322.5 -0.5,131.5 658.3,212.3 "></polygon>
+              </svg>
+              <!-- End SVG Background Shape -->
+            </div>
+            <!-- End Researches -->
+          </div>
+
+
+<section class="g-brd-y g-brd-gray-light-v4 g-pos-rel g-overflow-hidden">
+      <div class="container g-pt-100 g-pb-50">
+        <div class="row justify-content-between">
+          <div class="col-lg-12 g-mb-50">
+            <!-- Heading -->
+            <div class="text-center text-lg-left g-mb-60">
+              <div class="d-inline-block g-width-35 g-height-1 g-bg-primary mb-3"></div>
+              <h2 class="g-color-black g-font-weight-600 mb-5">Consulting Services</h2>
+            </div>
+            <!-- End Heading -->
+            <div>
+              Let the GoChain engineers bring your ideas to life or enhance your existing solutions using industry best practices. 
+              Blockchain applications can get very complex if not done right and we'll make sure it's done right so your team can 
+              maintain and support it going forward.
+              <br/><br/>
+              <b>We Save You Time</b> - We've learned the hard way how to build dApps and how to run and manage blockchain networks. 
+              Let us help you avoid common pitfalls and give you best practices from the start.
+              <br/><br/>
+              <b>We Enable Your Teams</b> - We teach your teams how to do it right, so they can do take over the project from us
+              and continue to build and maintain it. They'll also be equipped the best practices so they can do it on their own for the next project.
+              <br/><br/>
+              We offer consulting packages for every step of the project lifecycle.
+              <br/><br/>
+              <a onclick="$crisp.push(['do', 'chat:open']); $crisp.push(['set', 'message:text', ['Hi, I am interested in Consulting Services.']]);" class="btn text-uppercase u-btn-primary g-rounded-50 g-font-size-12 g-font-weight-700 g-pa-15-30 g-mb-10" href="#!">Contact Us</a>
+
+            </div>
+
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
+
+     <section class="g-bg-secondary">
+      <div class="container g-pt-20 g-pb-40">
+        <div class="row justify-content-center g-mb-60">
+          <div class="col-lg-7">
+            <!-- Heading -->
+            <div class="text-center">
+              <h2 class="h3 g-color-black text-uppercase mb-2">Our process</h2>
+              <div class="d-inline-block g-width-35 g-height-2 g-bg-primary mb-2"></div>
+              <p class="lead mb-0">Our process is designed to ensure you get the product or solution you want, which often
+              changes throughout the process.</p>
+            </div>
+            <!-- End Heading -->
+          </div>
+        </div>
+
+        <!-- Static Process -->
+        <div class="row">
+          <div class="col-sm-6 col-lg-3 g-mb-60">
+            <!-- Static Process -->
+            <div class="text-center">
+              <i class="u-dot-line-v1-2 g-brd-transparent--before g-brd-gray-light-v2--after g-mb-20">
+
+                  <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
+
+                </i>
+              <h3 class="h5 g-color-black mb-20">Plan</h3>
+              <p class="mb-0">This is where we talk about the end goal and make a plan to get there.</p>
+            </div>
+            <!-- End Static Process -->
+          </div>
+
+          <div class="col-sm-6 col-lg-3 g-mb-60">
+            <!-- Static Process -->
+            <div class="text-center">
+              <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
+
+                  <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
+
+                </i>
+              <h3 class="h5 g-color-black mb-20">Develop</h3>
+              <p class="mb-0">Now that we've got a plan, it's time to get to work.</p>
+            </div>
+            <!-- End Static Process -->
+          </div>
+
+          <div class="col-sm-6 col-lg-3 g-mb-60">
+            <!-- Static Process -->
+            <div class="text-center">
+              <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-gray-light-v2--after g-mb-20">
+
+                  <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
+
+                </i>
+              <h3 class="h5 g-color-black mb-20">Feedback</h3>
+              <p class="mb-0">Constant feedback throughout the process is required to ensure the project is going in the right direction.</p>
+            </div>
+            <!-- End Static Process -->
+          </div>
+
+          <div class="col-sm-6 col-lg-3 g-mb-60">
+            <!-- Static Process -->
+            <div class="text-center">
+              <i class="u-dot-line-v1-2 g-brd-gray-light-v2--before g-brd-transparent--after g-mb-20">
+
+                  <span class="u-dot-line-v1__inner g-bg-white g-bg-primary--before g-brd-gray-light-v2"></span>
+
+                </i>
+              <h3 class="h5 g-color-black mb-20">Iterate</h3>
+              <p class="mb-0">Rinse and repeat...</p>
+            </div>
+            <!-- End Static Process -->
+          </div>
+        </div>
+        <!-- End Static Process -->
+      </div>
+    </section>
+
+
+
+<section class="g-brd-y g-brd-gray-light-v4 g-pos-rel g-overflow-hidden">
+      <div class="container g-pt-100 g-pb-50">
+        <div class="row justify-content-between">
+          <div class="col-lg-12 g-mb-50">
+            <!-- Heading -->
+            <div class="text-center text-lg-left g-mb-60">
+              <div class="d-inline-block g-width-35 g-height-1 g-bg-primary mb-3"></div>
+              <h2 class="g-color-black g-font-weight-600 mb-5">Private Training</h2>
+            </div>
+            <!-- End Heading -->
+            <div>
+              Private training for project managers, developers, architects, and business managers is provided as a specific solution.  A private training session is billed hourly and can be conducted in person or over a video conference, and is designed to target a specific industry problem or architectural challenge.  The expert team at GoChain is committed to providing a customized training session based on specified needs and objectives.  Typical training sessions include the following:
+<br/><br/>
+<ul>
+<li>Qualitative project analysis</li>
+<li>General blockchain education</li>
+<li>Analysis of industry problems and use cases</li>
+<li>Technical onboarding and platform implementation</li>
+<li>DevOps and Architecture</li>
+</ul>
+<br/><br/>
+
+ <a onclick="$crisp.push(['do', 'chat:open']); $crisp.push(['set', 'message:text', ['Hi, I am interested in a Private Training.']]);" class="btn text-uppercase u-btn-primary g-rounded-50 g-font-size-12 g-font-weight-700 g-pa-15-30 g-mb-10" href="#!">Contact Us</a>
+
+              
+            </div>
+
+          </div>
+
+
+        </div>
+
+        <img class="g-width-600 g-pos-abs g-bottom-minus-25x g-z-index-minus-1" src="../../assets/img/maps/map3.png" alt="Image Description">
+      </div>
+    </section>
+
+
+
+    <section class="g-bg-gray-light-v5">
+      <div class="container g-py-50">
+        <div class="d-flex justify-content-between">
+          <h3 class="h5 align-self-center mb-0 mr-4">Want the blockchain experts to help with your project?</h3>
+          <a class="align-self-center btn btn-xl u-btn-outline-black g-font-size-default" href="#!"
+          onclick="$crisp.push(['set', 'message:text', ['Hi, I am interested in hiring GoChain to help with our blockchain project.']]); $crisp.push(['do', 'chat:open']); ">Contact Us Now</a>
+        </div>
+      </div>
+    </section>
+
+
+      
+</div>
+<!-- end content wrapper -->
+
+
+<script>
+     $(document).ready(function() {
+        $('#newsletter-submit').click(signUpForNewsletter);
+    });
+
+    function signUpForNewsletter() {
+
+          var e = $('#newsletter-email');
+          // var n = $('#newsletter-name');
+          var ev = e.val();
+          // var nv = n.val();
+          var haserr = false;
+          if (ev == "") {
+            haserr = true;
+          }
+          if (!haserr) {
+            try {
+              $crisp.push(["set", "user:email", [ev]])
+              $crisp.push(["set", "session:segments", [["newsletter"]]])
+              $('#newsletter-confirm').show();
+              $('#newsletter-form').hide();
+            } catch(err) {
+              console.error(err);
+              haserr = true;
+            }
+          }
+          if (haserr) {
+            e.css("border", "1px solid red");
+            return;
+          } else {
+            e.css("border", "1px solid grey");
+          }
+          // if (nv == "") {
+          //   console.log("blank n")
+          //   n.css("border", "1px solid red");
+          //   return;
+          // } else {
+          //   n.css("border", "1px solid grey");
+          // }
+
+
+    }
+      </script>
+
+<section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(/assets/img/bg/pattern5.png);">
+  <div class="d-md-flex justify-content-md-center text-center">
+    <div class="align-self-md-center">
+      <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">Sign up for our newsletter</p>
+    </div>
+    <div class="align-self-md-center">
+
+      <div style="display: none; text-align: center;" id="newsletter-confirm">
+              Thank you for signing up!
+            </div>
+            <form class="form-inline justify-content-center" id="newsletter-form" onsubmit="signUpForNewsletter(); return false;" >
+              <div class="form-group" style="padding-right:10px;" >
+                <input type="email" id="newsletter-email" class="form-control" placeholder="Your email address" />
+              </div>
+
+              <button class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" type="button" id="newsletter-submit">
+                Subscribe
+              </button>
+
+              <!-- <div class="agree w-100" style="text-align: center;">By signing up you agree to our <a href="#">Terms</a>.</div> -->
+            </form>
+
+    </div>
+  </div>
+</section>
+
+<!-- Footer -->
+<div id="contacts-section" class="g-bg-black-opacity-0_9 g-color-white-opacity-0_8 g-py-60">
+  <div class="container">
+
+
+    <div class="row">
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">About Us</h2>
+        </div>
+
+        <p>GoChain has the best performing public web3 based network which is live and ready to use at 1300tps.
+        Deploy your DApps and smart contracts today to get 100x the performance of Ethereum and reduce your impact on the environment.
+      </p>
+      <p>
+        GoChain is also the most reliable, most performant, 100% Ethereum Compatible blockchain for private networks as well.
+      </p>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Latest News</h2>
+        </div>
+
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-blockport-25a2bdad4eec">GoChain ($GO) now listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar 11, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-go-now-listed-on-cryptofacil-806dfaff724d">GoChain Now Listed on...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  8, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+        <article>
+          <h3 class="h6 g-mb-2">
+
+        <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain/gochain-partners-with-leading-iris-biometric-company-irisafe-for-joint-development-of-blockchain-b4a7b20c70df">GoChain Partners with Leading...</a>
+
+      </h3>
+          <div class="small g-color-white-opacity-0_6">Mar  6, 2019</div>
+        </article>
+
+        <hr class="g-brd-white-opacity-0_1 g-my-10">
+
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6 g-mb-40 g-mb-0--lg">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Resources</h2>
+        </div>
+
+        <nav class="text-uppercase1">
+          <ul class="list-unstyled g-mt-minus-10 mb-0">
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/about">About Us</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+        </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/network">Public Network</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/services">Our Services</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+
+          <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://medium.com/gochain">Blog</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+           <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+            <h4 class="h6 g-pr-20 mb-0">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io">Knowledge Base</a>
+              <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+            </h4>
+          </li>
+
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://help.gochain.io/en/article/jobs-1vb4ik3/">Jobs</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </li>
+            <li class="g-pos-rel g-brd-bottom g-brd-white-opacity-0_1 g-py-10">
+              <h4 class="h6 g-pr-20 mb-0">
+
+            <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.foundation">GoChain Foundation</a>
+
+            <i class="fa fa-angle-right g-absolute-centered--y g-right-0"></i>
+
+          </h4>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <!-- End Footer Content -->
+
+      <!-- Footer Content -->
+      <div class="col-lg-3 col-md-6">
+        <div class="u-heading-v2-3--bottom g-brd-white-opacity-0_8 g-mb-20">
+          <h2 class="u-heading-v2__title h6 text-uppercase mb-0">Our Contacts</h2>
+        </div>
+
+        <address class="g-bg-no-repeat g-font-size-12 mb-0" style="background-image: url(/assets/img/maps/map2.png);">
+
+      <!-- Location -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-map-marker"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">Charlestown<br/>Nevis, W.I.</p>
+
+      </div>
+
+      <!-- End Location -->
+
+
+
+      <!-- Phone -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-comments"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+           <a onclick="$crisp.push(['do', 'chat:open'])" href="#!" class="g-color-white-opacity-0_8 g-color-white--hover">Chat with us</a>
+           <br/>
+           <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/cdn-cgi/l/email-protection#660f080009260109050e070f08480f09"><span class="__cf_email__" data-cfemail="5930373f36193e363a31383037773036">[email&#160;protected]</span></a>
+        </p>
+
+      </div>
+
+      <!-- End Phone -->
+
+
+
+      <!-- Email and Website -->
+
+      <div class="d-flex g-mb-20">
+
+        <div class="g-mr-10">
+
+          <span class="u-icon-v3 u-icon-size--xs g-bg-white-opacity-0_1 g-color-white-opacity-0_6">
+
+            <i class="fa fa-globe"></i>
+
+          </span>
+
+        </div>
+
+        <p class="mb-0">
+
+
+          <a class="g-color-white-opacity-0_8 g-color-white--hover" href="https://gochain.io">gochain.io</a>
+
+        </p>
+
+      </div>
+
+      <!-- End Email and Website -->
+
+    </address>
+      </div>
+      <!-- End Footer Content -->
+    </div>
+  </div>
+</div>
+<!-- End Footer -->
+
+<!-- Copyright Footer -->
+<footer class="g-bg-gray-dark-v1 g-color-white-opacity-0_8 g-py-20">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 text-center text-md-left g-mb-10 g-mb-0--md">
+        <div class="d-lg-flex">
+          <small class="d-block g-font-size-default g-mr-10 g-mb-10 g-mb-0--md">Copyright &copy; 2019 GoChain</small>
+          <ul class="u-list-inline">
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/privacy">Privacy Policy</a>
+            </li>
+            <li class="list-inline-item">
+              <span>|</span>
+            </li>
+            <li class="list-inline-item">
+              <a class="g-color-white-opacity-0_8 g-color-white--hover" href="/support">Support</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-4 align-self-center">
+        <ul class="list-inline text-center text-md-right mb-0">
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Telegram">
+            <a href="https://t.me/go_chain" target="_blank" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-telegram"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Linkedin">
+            <a href="https://www.linkedin.com/company/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-linkedin"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Twitter">
+            <a href="https://twitter.com/go_chain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+          <li class="list-inline-item g-mx-10" data-toggle="tooltip" data-placement="top" title="Medium">
+            <a href="https://medium.com/gochain" class="g-color-white-opacity-0_5 g-color-white--hover">
+              <i class="fa fa-medium"></i>
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
+<!-- End Copyright Footer -->
+
+
+      <a class="js-go-to u-go-to-v1" href="#!" data-type="fixed" data-position='{"bottom": 15,"right": 15}' data-offset-top="400" data-compensation="#js-header" data-show-effect="zoomIn">
+        <i class="hs-icon hs-icon-arrow-top"></i>
+      </a>
+
+    </main>
+
+
+    <div class="u-outer-spaces-helper"></div>
+
+    <!-- JS Global Compulsory -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/assets/vendor/jquery/jquery.min.js"></script>
+<script src="/assets/vendor/jquery-migrate/jquery-migrate.min.js"></script>
+<script src="/assets/vendor/popper.js/popper.min.js"></script>
+<script src="/assets/vendor/bootstrap/bootstrap.min.js"></script>
+
+
+<!-- JS Implementing Plugins -->
+<script src="/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsparallaxer.js"></script>
+<script src="/assets/vendor/dzsparallaxer/dzsscroller/scroller.js"></script>
+<script src="/assets/vendor/dzsparallaxer/advancedscroller/plugin.js"></script>
+<script src="/assets/vendor/fancybox/jquery.fancybox.min.js"></script>
+<script src="/assets/vendor/slick-carousel/slick/slick.js"></script>
+<script src="/assets/vendor/typedjs/typed.min.js"></script>
+
+<!-- JS Unify -->
+<script src="/assets/js/hs.core.js"></script>
+<script src="/assets/js/components/hs.header.js"></script>
+<script src="/assets/js/helpers/hs.hamburgers.js"></script>
+<script src="/assets/js/components/hs.tabs.js"></script>
+<script src="/assets/js/components/hs.popup.js"></script>
+<script src="/assets/js/components/hs.carousel.js"></script>
+<script src="/assets/js/components/text-animation/hs.text-slideshow.js"></script>
+<script src="/assets/js/components/hs.go-to.js"></script>
+
+<!-- JS Customization -->
+<script src="/assets/js/custom.js"></script>
+
+<!-- JS Plugins Init. -->
+<script>
+  $(document).on('ready', function () {
+      // initialization of carousel
+      $.HSCore.components.HSCarousel.init('.js-carousel');
+
+      // initialization of tabs
+      $.HSCore.components.HSTabs.init('[role="tablist"]');
+
+      // initialization of popups
+      $.HSCore.components.HSPopup.init('.js-fancybox');
+
+      // initialization of go to
+      $.HSCore.components.HSGoTo.init('.js-go-to');
+
+      // initialization of text animation (typing)
+      $(".u-text-animation.u-text-animation--typing").typed({
+        strings: [
+          "10x more decentralized",
+          "100x faster",
+          "1000x greener"
+        ],
+        typeSpeed: 60,
+        loop: true,
+        backDelay: 1500
+      });
+    });
+
+    $(window).on('load', function () {
+      // initialization of header
+      $.HSCore.components.HSHeader.init($('#js-header'));
+      $.HSCore.helpers.HSHamburgers.init('.hamburger');
+
+      // initialization of HSMegaMenu component
+      $('.js-mega-menu').HSMegaMenu({
+        event: 'hover',
+        pageContainer: $('.container'),
+        breakpoint: 991
+      });
+    });
+
+    $(window).on('resize', function () {
+      setTimeout(function () {
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+      }, 200);
+    });
+</script>
+
+
+    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="66522af9-60ab-41e9-8d67-7981d7e8a173";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+    
+  </body>
+</html>
